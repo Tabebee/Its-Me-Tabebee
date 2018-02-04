@@ -587,6 +587,7 @@ color: #2c3e50;
 	color: #526cbb;
 }
 
+
 /* Media Queries */
 @media(min-width:768px) {
 .intro {
@@ -619,4 +620,8 @@ header .intro-text {
 	float: left;
 	margin-bottom: 20px;
 }
+}
+
+#portfolio img {
+	min-height: 95%;
 }
