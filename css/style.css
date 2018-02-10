@@ -599,6 +599,9 @@ color: #2c3e50;
 	color: #526cbb;
 }
 
+#portfolio img {
+	min-height: 95%;
+}
 
 /* Media Queries */
 @media(min-width:768px) {
@@ -634,6 +637,9 @@ header .intro-text {
 }
 }
 
-#portfolio img {
-	min-height: 95%;
-}
+/*@media (min-width: 1200px) {*/
+	/*#portfolio img {*/
+		/*min-height: 95%;*/
+		/*margin: 5%;*/
+	/*}*/
+/*}*/
