@@ -603,6 +603,15 @@ color: #2c3e50;
 	min-height: 95%;
 }
 
+.alert{
+	text-align: center;
+	padding:10px;
+	background:#79c879;
+	color:#fff;
+	margin-bottom:10px;
+	display:none;
+}
+
 /* Media Queries */
 @media(min-width:768px) {
 .intro {
